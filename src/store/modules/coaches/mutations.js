@@ -1,5 +1,5 @@
 export default {
-    registerCoach(state, payload){
-        state.coaches.push(payload)
-    }
-}
+  registerCoach(state, payload) {
+    state.coaches.push(payload);
+  }
+};
